@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RT7285C
+D RT7285C
+K DC/DC Buck Step-Down
+$ENDCMP
+#
+#End Doc Library

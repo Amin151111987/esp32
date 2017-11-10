@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ25504
+D BQ25504
+K MPPT Solar Charger Boost Harvest
+$ENDCMP
+#
+$CMP BQ25505
+D BQ25505
+K MPPT Solar Charger Boost Harvest Storage-Multiplexing
+$ENDCMP
+#
+#End Doc Library

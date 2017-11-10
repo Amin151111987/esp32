@@ -1,0 +1,62 @@
+Reference, Value, Footprint,Farnell,RS-Components
+C3,22uF,Capacitors_SMD:CP_Elec_4x5.7,2611417,839-1913
+RL1,ADW1103,Common_Footprints:ADW11,-, 134-7910
+RL4,ADW1103,Common_Footprints:ADW11,-, 134-7910
+RL6,ADW1103,Common_Footprints:ADW11,-, 134-7910
+RL2,ADW1103,Common_Footprints:ADW11,-, 134-7910
+RL3,ADW1103,Common_Footprints:ADW11,-, 134-7910
+RL5,ADW1103,Common_Footprints:ADW11,-, 134-7910
+U2,ESP32-WROOM,ESP32-footprints-Lib:ESP32-WROOM,,-
+T10,NX3008CBKS,TO_SOT_Packages_SMD:SC-70-6_Handsoldering,2069539,136-4842
+T9,NX3008CBKS,TO_SOT_Packages_SMD:SC-70-6_Handsoldering,2069539,136-4842
+T12,NX3008CBKS,TO_SOT_Packages_SMD:SC-70-6_Handsoldering,2069539,136-4842
+T8,NX3008CBKS,TO_SOT_Packages_SMD:SC-70-6_Handsoldering,2069539,136-4842
+T11,NX3008CBKS,TO_SOT_Packages_SMD:SC-70-6_Handsoldering,2069539,136-4842
+T7,NX3008CBKS,TO_SOT_Packages_SMD:SC-70-6_Handsoldering,2069539,136-4842
+T5,NX3008CBKS,TO_SOT_Packages_SMD:SC-70-6_Handsoldering,2069539,136-4842
+T2,NX3008CBKS,TO_SOT_Packages_SMD:SC-70-6_Handsoldering,2069539,136-4842
+T4,NX3008CBKS,TO_SOT_Packages_SMD:SC-70-6_Handsoldering,2069539,136-4842
+T1,NX3008CBKS,TO_SOT_Packages_SMD:SC-70-6_Handsoldering,2069539,136-4842
+T6,NX3008CBKS,TO_SOT_Packages_SMD:SC-70-6_Handsoldering,2069539,136-4842
+T3,NX3008CBKS,TO_SOT_Packages_SMD:SC-70-6_Handsoldering,2069539,136-4842
+J4,Screw_Terminal_1x06,Connect:bornier6,2008008,193-0570 (2x)
+J2,Screw_Terminal_1x06,Connect:bornier6,2008008,193-0570 (2x)
+J3,Screw_Terminal_1x06,Connect:bornier6,2008008,193-0570 (2x)
+J1,Screw_Terminal_1x02,Connect:bornier2,2008004,193-0586
+U3,74HC595,Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm,2445201,527-520
+U4,74HC595,Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm,2445201,527-520
+U5,74HC595,Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm,2445201,527-520
+R5,10k,Resistors_SMD:R_0603_HandSoldering,9238603,213-2418
+R6,10k,Resistors_SMD:R_0603_HandSoldering,9238603,213-2418
+R4,10k,Resistors_SMD:R_0603_HandSoldering,9238603,213-2418
+R3,10k,Resistors_SMD:R_0603_HandSoldering,9238603,213-2418
+R7,10k,Resistors_SMD:R_0603_HandSoldering,9238603,213-2418
+R8,10k,Resistors_SMD:R_0603_HandSoldering,9238603,213-2418
+R9,10k,Resistors_SMD:R_0603_HandSoldering,9238603,213-2418
+R10,10k,Resistors_SMD:R_0603_HandSoldering,9238603,213-2418
+R12,10k,Resistors_SMD:R_0603_HandSoldering,9238603,213-2418
+R11,10k,Resistors_SMD:R_0603_HandSoldering,9238603,213-2418
+R13,10k,Resistors_SMD:R_0603_HandSoldering,9238603,213-2418
+R14,10k,Resistors_SMD:R_0603_HandSoldering,9238603,213-2418
+C4,10uF,Capacitors_SMD:CP_Elec_6.3x5.8,2068697,715-1408
+C1,100nF,Capacitors_SMD:C_0603_HandSoldering,,135-8345
+RL7,OZ-SS-103LM1,Relays_ThroughHole:Relay_SPDT_Schrack-RT1_RM5mm,1891815,
+RL8,OZ-SS-103LM1,Relays_ThroughHole:Relay_SPDT_Schrack-RT1_RM5mm,1891815,
+Q1,BSS806,TO_SOT_Packages_SMD:SOT-23,2443469,826-8260
+Q2,BSS806,TO_SOT_Packages_SMD:SOT-23,2443469,826-8260
+D2,CD0603-B00340,Diodes_SMD:D_0603,1456534,767-3703
+D1,CD0603-B00340,Diodes_SMD:D_0603,1456534,767-3703
+R15,R,Resistors_SMD:R_0603_HandSoldering,DNP,DNP
+R16,R,Resistors_SMD:R_0603_HandSoldering,DNP,DNP
+R18,R,Resistors_SMD:R_0603_HandSoldering,DNP,DNP
+R17,R,Resistors_SMD:R_0603_HandSoldering,DNP,DNP
+SW1,SW_Push,Buttons_Switches_ThroughHole:SW_PUSH_6mm_h7.3mm,9471707,479-1413??
+SW2,SW_Push,Buttons_Switches_ThroughHole:SW_PUSH_6mm_h7.3mm,9471707,479-1413??
+R20,10k,Capacitors_SMD:C_0603_HandSoldering,,213-2418
+R19,10k,Capacitors_SMD:C_0603_HandSoldering,,213-2418
+P1,CONN_02X03,Pin_Headers:Pin_Header_Straight_2x03,,745-7046
+U1,TR10S3V3,TO_SOT_Packages_THT:TO-220_Vertical,2708278,134-6946
+C2,100nF,Capacitors_SMD:C_0603_HandSoldering,,135-8345
+C5,100nF,Capacitors_SMD:C_0603_HandSoldering,,135-8345
+C6,100nF,Capacitors_SMD:C_0603_HandSoldering,,135-8345
+C7,100nF,Capacitors_SMD:C_0603_HandSoldering,,135-8345
